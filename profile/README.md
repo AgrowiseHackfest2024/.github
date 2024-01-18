@@ -31,6 +31,27 @@ There are 3 Repositories
 - [agrowise-be-hackfest](https://github.com/AgrowiseHackfest2024/agrowise-be-hackfest)
 - [agrowise-ml-hackfest](https://github.com/AgrowiseHackfest2024/agrowise-ml-hackfest)
 
+## Running locally in development mode
+
+### Frontend
+1. git clone https://github.com/AgrowiseHackfest2024/agrowise-fe-hackfest.git
+2. npm install
+3. npm run dev
+
+### Backend
+
+1. git clone https://github.com/AgrowiseHackfest2024/agrowise-be-hackfest.git
+2. create .env and paste [ENV Backend](https://docs.google.com/document/d/1TCn0Wzw1Ygz-x5eZMTqMIRpsduj7g7k9Q_9vaRX8sSs/edit?usp=sharing) to .env
+3. go mod tidy
+4. go run main.go
+
+### Machine Learning
+
+1. git clone https://github.com/AgrowiseHackfest2024/agrowise-ml-hackfest.git
+2. create .env and paste [ENV Machine Learning](https://docs.google.com/document/d/1TCn0Wzw1Ygz-x5eZMTqMIRpsduj7g7k9Q_9vaRX8sSs/edit?usp=sharing) to .env
+3. go mod tidy
+4. go run main.go
+    
 ## Tech Stack
 
 ### Frontend
