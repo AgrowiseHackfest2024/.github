@@ -95,31 +95,31 @@ This tech stack combines the efficiency of Golang for the backend, the flexibili
 
 ## Screenshot Product
 
-Landing Not Login
+### Landing Not Login
 <img src="./picture/Landing Not Login.png">
 
-Landing Login
+### Landing Login
 <img src="./picture/Landing Login.png">
 
-Farmers
+### Farmers
 <img src="./picture/Farmers.png">
 
-Farmer Detail
+### Farmer Detail
 <img src="./picture/Farmer Detail.png">
 
-Seed Detail
+### Seed Detail
 <img src="./picture/Seed Detail.png">
 
-Payment
+### Payment
 <img src="./picture/Payment.png">
 
-History
+### History
 <img src="./picture/History.png">
 
-Login
+### Login
 <img src="./picture/Login.png">
 
-Register
+### Register
 <img src="./picture/Register.png">
 
 ## Deployment
