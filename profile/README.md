@@ -17,8 +17,9 @@ Together, we are eager to make impactful changes in the world.
 Agrowise is an innovative agricultural platform that connects consumers with farmers implementing sustainable farming practices through the Community Supported Agriculture (CSA) concept. Consumers can choose farmers they want to support based on profiles and reviews. The application facilitates seed purchases and manages direct deliveries to farmers. Consumers can follow the progress of their farms through updates and photos from farmers, promoting transparency. During harvest, consumers and farmers celebrate the results together, strengthening engagement in sustainable agriculture.
 
 ## Features
-1. Choose Seeds: Agrowise makes it easy and efficient for consumers to choose seeds.
-2. Online Payments: To simplify transactions, we have included an online payment system. Consumers can pay directly through this platform.
+1. Choose Farmers: Agrowise makes it easy and efficient for consumers to choose farmers.
+2. Purchase Seeds: Agrowise facilitates seed purchases and manages direct deliveries to farmers.
+3. Online Payments: To simplify transactions, we have included an online payment system. Consumers can pay directly through this platform.
 
 ## How to use
 1. Access the Application: The Agrowise application has been successfully deployed and can be accessed at https://agrowise-hackfest-2024.vercel.app/
@@ -91,6 +92,35 @@ There are 3 Repositories
   - Tailwind CSS is chosen for styling to provide a utility-first CSS framework that is highly customizable.
 
 This tech stack combines the efficiency of Golang for the backend, the flexibility of Next.js for the frontend, the distributed architecture of CockroachDB for data storage, and the secure payment processing capabilities of Midtrans for a robust and reliable agricultural platform.
+
+## Screenshot Product
+
+Landing Not Login
+<img src="./picture/Landing Not Login.png">
+
+Landing Login
+<img src="./picture/Landing Login.png">
+
+Farmers
+<img src="./picture/Farmers.png">
+
+Farmer Detail
+<img src="./picture/Farmer Detail.png">
+
+Seed Detail
+<img src="./picture/Seed Detail.png">
+
+Payment
+<img src="./picture/Payment.png">
+
+History
+<img src="./picture/History.png">
+
+Login
+<img src="./picture/Login.png">
+
+Register
+<img src="./picture/Register.png">
 
 ## Deployment
 
