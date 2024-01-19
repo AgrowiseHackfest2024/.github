@@ -50,8 +50,8 @@ There are 3 Repositories
 
 1. git clone https://github.com/AgrowiseHackfest2024/agrowise-ml-hackfest.git
 2. create .env and paste [ENV Machine Learning](https://docs.google.com/document/d/1TCn0Wzw1Ygz-x5eZMTqMIRpsduj7g7k9Q_9vaRX8sSs/edit?usp=sharing) to .env
-3. go mod tidy
-4. go run main.go
+3. pip install -r requirements.txt
+4. flask run
     
 ## Tech Stack
 
